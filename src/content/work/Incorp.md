@@ -1,6 +1,6 @@
 ---
 company: "Incorp.LLC"
-role: "LLC Incorporation Service"
+role: "LLC Formation Service"
 dateStart: "12/04/2025"
 dateEnd: "Current"
 ---
