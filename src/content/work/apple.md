@@ -1,8 +1,8 @@
 ---
-company: "Apple"
-role: "Software Engineer"
-dateStart: "01/01/2020"
-dateEnd: "11/27/2022"
+company: "baseCRM.org"
+role: "Cloud CRM with Advertising Superpowers"
+dateStart: "01/04/2026"
+dateEnd: "Current"
 ---
 
-Voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit. Iure illo neque tempora.
+Modern, powerful, CRM platform that allows you to create highly targeted ads on Google, Facebook, Instagram, and twitter.

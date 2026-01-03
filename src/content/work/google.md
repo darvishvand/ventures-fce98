@@ -1,8 +1,8 @@
 ---
-company: "Google"
-role: "Staff Software Engineer"
-dateStart: "11/27/2022"
+company: "Incorp.LLC"
+role: "LLC Incorporation Service"
+dateStart: "01/04/2026"
 dateEnd: "Current"
 ---
 
-Sit amet consectetur adipisicing elit. Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor.
+Instant Wyoming LLC formation offering immediate legal personhood, liability protection, and banking access for online companies.

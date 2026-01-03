@@ -1,8 +1,8 @@
 ---
-company: "Facebook"
-role: "Intern"
-dateStart: "07/01/2019"
-dateEnd: "12/31/2019"
+company: "Retarget.Network"
+role: "Exclusive Retargeting Network"
+dateStart: "01/04/2026"
+dateEnd: "Current"
 ---
 
-Iure illo neque tempora, voluptatem est quaerat voluptas praesentium ipsa dolorem dignissimos nulla ratione distinctio quae maiores eligendi nostrum? Quibusdam, debitis voluptatum, lorem ipsum dolor. Sit amet consectetur adipisicing elit.
+Acquire Prospective customers with Google, Facebook, and Instagram retargeting partnerships through an exclusive network of websites and businesses.
