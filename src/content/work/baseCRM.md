@@ -1,7 +1,7 @@
 ---
 company: "baseCRM.org"
 role: "Cloud CRM with Advertising Superpowers"
-dateStart: "01/04/2026"
+dateStart: "12/04/2025"
 dateEnd: "Current"
 ---
 
