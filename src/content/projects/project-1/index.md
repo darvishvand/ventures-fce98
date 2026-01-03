@@ -1,9 +1,9 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
+title: "baseCRM"
+description: "Cloud CRM with advertising superpowers"
 date: "Mar 18 2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+demoURL: "https://basecrm.org"
+repoURL: ""
 ---
 
 ![Astro Sphere Lighthouse Score](/astro-sphere.jpg)

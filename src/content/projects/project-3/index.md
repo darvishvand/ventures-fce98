@@ -1,8 +1,8 @@
 ---
-title: "Incorp.LLC"
-description: "Instant online LLC formation."
+title: "Retarget.Network"
+description: "Exclusive retargeting network"
 date: "Dec 04 2025"
-demoURL: "https://incorp.llc"
+demoURL: "https://retargeting.network"
 repoURL: ""
 ---
 

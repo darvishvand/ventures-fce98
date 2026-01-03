@@ -1,6 +1,6 @@
 ---
 company: "Retarget.Network"
-role: "Exclusive Retargeting Network"
+role: "Exclusive retargeting network"
 dateStart: "12/04/2025"
 dateEnd: "Current"
 ---
